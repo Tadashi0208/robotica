@@ -1,0 +1,86 @@
+# ==========================================================
+# LaTeX / TeXstudio - Repositorio de tesis
+# ==========================================================
+
+# Archivos auxiliares de compilación LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex
+*.synctex.gz
+*.dvi
+*.xdv
+*.nav
+*.snm
+*.vrb
+
+# Bibliografía: BibTeX / Biber
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Índices, glosarios y nomenclatura
+*.idx
+*.ilg
+*.ind
+*.ist
+*.glo
+*.gls
+*.glg
+*.glsdefs
+*.acn
+*.acr
+*.alg
+*.xdy
+
+# Paquetes y compilaciones especiales
+*.pyg
+_minted-*/
+*.listing
+*.lol
+
+# Archivos temporales de TeXstudio
+*.txss
+*.txss2
+*.tps
+*.autosave
+*.sav
+*.bak
+*.backup
+
+# Archivos temporales del sistema y editores
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Carpetas de compilación
+build/
+out/
+output/
+auxiliary/
+
+# Archivos generados por latexmk
+*.latexmk
+
+# PDF generados
+# Se ignoran todos los PDF compilados para evitar conflictos.
+# Comenta la siguiente línea si deseas versionar el PDF final.
+*.pdf
+
+# Ejemplo para conservar un PDF final específico:
+# !tesis_final.pdf
+
+# No se deben ignorar:
+# *.tex
+# *.bib
+# imágenes (.png, .jpg, .jpeg, .svg)
+# archivos de estilo (.sty, .cls)
