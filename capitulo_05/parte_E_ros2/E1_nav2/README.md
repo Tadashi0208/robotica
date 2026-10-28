@@ -85,4 +85,4 @@ La práctica permitió comprobar el funcionamiento conjunto de Gazebo, RViz, AMC
 
 Se realizó una grabación de pantalla donde se observa el movimiento del TurtleBot3 en Gazebo y el resultado de la navegación en RViz.
 
-**Video de la simulación:** **Video de la simulación:** [Ver demostración en YouTube](https://youtu.be/OLhBkIuY_1)
+**Video de la simulación:** **Video de la simulación:** [Ver demostración en YouTube](https://youtu.be/OLhBkIuY_14)
