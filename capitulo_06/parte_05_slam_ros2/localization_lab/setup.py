@@ -50,6 +50,7 @@ setup(
     entry_points={
     'console_scripts': [
         'simple_controller = localization_lab.simple_controller:main',
+        'reactive_navigator = localization_lab.reactive_navigator:main',
     ],
     },
 )
